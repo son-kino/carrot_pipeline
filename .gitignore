@@ -1,0 +1,7 @@
+.venv
+
+__pycache__
+
+# 연습용 파일 제거
+click_test.py
+docker-compose.yaml
